@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: AVOP.h
-Description: AVOP font for DisplayCore
+Description: AVOP
