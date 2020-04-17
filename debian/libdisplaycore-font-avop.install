@@ -1,2 +1,2 @@
-AVOP.cpp libraries/DisplayCore/AVOP
-AVOP.h libraries/DisplayCore/AVOP
+src libraries/DisplayCore/AVOP
+library.properties libraries/DisplayCore/AVOP
